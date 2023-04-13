@@ -3,6 +3,6 @@
 
 ## Steps:
 
-1.  Import Required Library.
+1.  Import Required Library ( tkinter, datatime,time)
 2.  Make a function named alarm(), which performs alarm clock work.
 3.  Add Button, Labels
